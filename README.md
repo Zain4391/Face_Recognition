@@ -48,8 +48,8 @@ A professional real-time face detection and recognition system built with C#, Fa
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
-   cd face-recognition-faceaisharp
+   git clone https://github.com/Zain4391/Face_Recognition.git
+   cd Face_Recognition
    ```
 
 2. **Install required packages**
